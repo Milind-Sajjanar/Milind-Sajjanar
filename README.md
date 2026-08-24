@@ -16,13 +16,13 @@
 Full end-to-end ML apps — trained, explained, and deployed live:
 
 - 🏦 **[Loan Approval Prediction](https://github.com/Milind-Sajjanar/Loan-Prediction)** – Compares 10 ML models (Decision Trees, SVC, Random Forest, AdaBoost, XGBoost, Voting Classifier) to predict loan approval, with a live Streamlit app for real-time predictions.
-  🔗 [https://github.com/Milind-Sajjanar/Loan-Prediction](#)
+  🔗 [Live Demo](https://loan-prediction-milind.streamlit.app/Predict_Loan)
 
 - 🌾 **[AgriSim](https://github.com/Milind-Sajjanar/Agri-Market-Twin)** – AI-powered crop yield prediction and farming scenario simulator, combining soil, weather, and farming data in an interactive Streamlit dashboard.
-  🔗 [https://agri-market-twin.streamlit.app/](#)
+  🔗 [Live Demo](https://agri-market-twin.streamlit.app/)
 
 - 👥 **[Velorium Retention Copilot](https://github.com/Milind-Sajjanar/Velorium-Retention-Copilot)** – Explainable employee attrition prediction (Logistic Regression + SHAP) paired with a Gemini-powered assistant that drafts retention strategies and HR emails.
-  🔗 [https://velorium-retention-copilot.onrender.com/](#)
+  🔗 [Live Demo](https://velorium-retention-copilot.onrender.com/)
 
 ### 📊 Academic & Data Projects
 
@@ -49,8 +49,9 @@ Full end-to-end ML apps — trained, explained, and deployed live:
 - Best Performer, SPECS Consulting Internship, 2022
 - Certificate of Appreciation, Karma Yoga – Community Engagement Program, 2025
 
-### 📫 Let's Connect   
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/milind-sajjanar-a482941b7/)**
-- 📧 milindsajjanar18@gmail.com
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/milind-sajjanar-a482941b7/)
+- 📧 [milindsajjanar18@gmail.com](mailto:milindsajjanar18@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me.
