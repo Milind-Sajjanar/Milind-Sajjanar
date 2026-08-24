@@ -15,16 +15,13 @@
 
 Full end-to-end ML apps — trained, explained, and deployed live:
 
-- 🏦 **[Loan Approval Prediction](https://github.com/Milind-Sajjanar/Loan-Prediction)** – Compares 10 ML models (Decision Trees, SVC, Random Forest, AdaBoost, XGBoost, Voting Classifier) to predict loan approval, with a live Streamlit app for real-time predictions.
-
+- 🏦 **[Loan Approval Prediction](https://github.com/Milind-Sajjanar/Loan-Prediction)** – Compares 10 ML models (Decision Trees, SVC, Random Forest, AdaBoost, XGBoost, Voting Classifier) to predict loan approval, with a live Streamlit app for real-time predictions.                   
   🔗 [Live Demo](https://loan-prediction-milind.streamlit.app/Predict_Loan)
 
-- 🌾 **[AgriSim](https://github.com/Milind-Sajjanar/Agri-Market-Twin)** – AI-powered crop yield prediction and farming scenario simulator, combining soil, weather, and farming data in an interactive Streamlit dashboard.
-
+- 🌾 **[AgriSim](https://github.com/Milind-Sajjanar/Agri-Market-Twin)** – AI-powered crop yield prediction and farming scenario simulator, combining soil, weather, and farming data in an interactive Streamlit dashboard.                  
   🔗 [Live Demo](https://agri-market-twin.streamlit.app/)
 
-- 👥 **[Velorium Retention Copilot](https://github.com/Milind-Sajjanar/Velorium-Retention-Copilot)** – Explainable employee attrition prediction (Logistic Regression + SHAP) paired with a Gemini-powered assistant that drafts retention strategies and HR emails.
-
+- 👥 **[Velorium Retention Copilot](https://github.com/Milind-Sajjanar/Velorium-Retention-Copilot)** – Explainable employee attrition prediction (Logistic Regression + SHAP) paired with a Gemini-powered assistant that drafts retention strategies and HR emails.                       
   🔗 [Live Demo](https://velorium-retention-copilot.onrender.com/)
 
 ### 📊 Academic & Data Projects
